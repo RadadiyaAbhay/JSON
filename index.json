@@ -1,14 +1,17 @@
 [
     {
-        "name" : "firsr",
-        "link" : 23
+        "name" : "Screwdriver Kit",
+        "imgLink" : "https://m.media-amazon.com/images/I/716kUJ3wXKL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3EitanH"
     },
     {
-        "name" : "firsr",
-        "link" :56
+        "name" : "Soap Dispenser",
+        "imgLink" : "https://m.media-amazon.com/images/I/31pdxePIpVL._SX300_SY300_QL70_FMwebp_.jpg",
+        "affLink" : "https://amzn.to/3sxmcbS"
     },
     {
-        "name" : "Abhay",
-        "link" : 18
+        "name" : "Groot Wooden Look",
+        "imgLink" : "https://m.media-amazon.com/images/I/511W25RBXFL.jpg",
+        "affLink" : "https://amzn.to/3YQgjCB"
     }
 ]
