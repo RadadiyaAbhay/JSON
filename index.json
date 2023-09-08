@@ -232,6 +232,18 @@
         "name" : "Gel Dispenser",
         "imgLink" : "https://m.media-amazon.com/images/I/61k747oGaFL._SX569_.jpg",
         "affLink" : "https://amzn.to/3OZKyCF"
+    },
+    {
+        "id" : 40 ,
+        "name" : "Laptop Table",
+        "imgLink" : "https://m.media-amazon.com/images/I/51nkiZRUy-L._SL1200_.jpg",
+        "affLink" : "https://amzn.to/3sJwQwk"
+    },
+    {
+        "id" : 41 ,
+        "name" : "Helmet Lock",
+        "imgLink" : "https://m.media-amazon.com/images/I/61mCEd3X29L._SX522_.jpg",
+        "affLink" : "https://amzn.to/3LbYubu"
     }
 
 ]
