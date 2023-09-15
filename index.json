@@ -244,6 +244,36 @@
         "name" : "Helmet Lock",
         "imgLink" : "https://m.media-amazon.com/images/I/61mCEd3X29L._SX522_.jpg",
         "affLink" : "https://amzn.to/3LbYubu"
+    },
+    {
+        "id" : 42 ,
+        "name" : "Wireless Charger",
+        "imgLink" : "https://m.media-amazon.com/images/I/61hS+rJ2heL._SX679_.jpg",
+        "affLink" : "https://amzn.to/3ZdEzP3"
+    },
+    {
+        "id" : 43 ,
+        "name" : "C Cable",
+        "imgLink" : "https://m.media-amazon.com/images/I/61UzQMCRaeL._SX522_.jpg",
+        "affLink" : "https://amzn.to/44SB6H5"
+    },
+    {
+        "id" : 44 ,
+        "name" : "LED Gloves",
+        "imgLink" : "https://m.media-amazon.com/images/I/4190bWlaiJL._UX522_.jpg",
+        "affLink" : "https://amzn.to/3RiYTgf"
+    },
+    {
+        "id" : 45 ,
+        "name" : "Handle Lock",
+        "imgLink" : "https://m.media-amazon.com/images/I/61P+k4gNsML._SX522_.jpg",
+        "affLink" : "https://amzn.to/44SxhS3"
+    },
+    {
+        "id" : 46 ,
+        "name" : "Multiplug Board",
+        "imgLink" : "https://m.media-amazon.com/images/I/61Xj3W7JttL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3Ruo5jI"
     }
 
 ]
