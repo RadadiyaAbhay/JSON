@@ -274,6 +274,18 @@
         "name" : "Multiplug Board",
         "imgLink" : "https://m.media-amazon.com/images/I/61Xj3W7JttL._SX522_.jpg",
         "affLink" : "https://amzn.to/3Ruo5jI"
+    },
+    {
+        "id" : 47 ,
+        "name" : "CCTV Camera",
+        "imgLink" : "https://m.media-amazon.com/images/I/41JPaYqCuQL.jpg",
+        "affLink" : "https://amzn.to/46wUHOr"
+    },
+    {
+        "id" : 48 ,
+        "name" : "washing Gloves",
+        "imgLink" : "https://m.media-amazon.com/images/I/51odFBrfI0L.jpg",
+        "affLink" : "https://amzn.to/46aZQeE"
     }
 
 ]
