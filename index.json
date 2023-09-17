@@ -283,9 +283,27 @@
     },
     {
         "id" : 48 ,
-        "name" : "washing Gloves",
+        "name" : "Washing Gloves",
         "imgLink" : "https://m.media-amazon.com/images/I/51odFBrfI0L.jpg",
         "affLink" : "https://amzn.to/46aZQeE"
+    },
+    {
+        "id" : 49 ,
+        "name" : "Retro Clock",
+        "imgLink" : "https://m.media-amazon.com/images/I/61WhgoU4LzL._SX522_.jpg",
+        "affLink" : "https://amzn.to/45RQhl9"
+    },
+    {
+        "id" : 50 ,
+        "name" : "Fridge Drawer",
+        "imgLink" : "https://m.media-amazon.com/images/I/41FiCcTN0yL.jpg",
+        "affLink" : "https://amzn.to/3EIuoZA"
+    },
+    {
+        "id" : 51 ,
+        "name" : "Garlic Crusher",
+        "imgLink" : "https://m.media-amazon.com/images/I/41HdSbQeCUL._SX300_SY300_QL70_FMwebp_.jpg",
+        "affLink" : "https://amzn.to/3rfY119"
     }
 
 ]
