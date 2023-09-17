@@ -304,6 +304,24 @@
         "name" : "Garlic Crusher",
         "imgLink" : "https://m.media-amazon.com/images/I/41HdSbQeCUL._SX300_SY300_QL70_FMwebp_.jpg",
         "affLink" : "https://amzn.to/3rfY119"
+    },
+    {
+        "id" : 52 ,
+        "name" : "Doorstop Alarm",
+        "imgLink" : "https://m.media-amazon.com/images/I/4114pIJpJzL._SX300_SY300_QL70_FMwebp_.jpg",
+        "affLink" : "https://amzn.to/3Pmz9Nt"
+    },
+    {
+        "id" : 53 ,
+        "name" : "Water Spray",
+        "imgLink" : "https://m.media-amazon.com/images/I/61mO79rEazL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3EIQ5Zw"
+    },
+    {
+        "id" : 54 ,
+        "name" : "Weight Machine",
+        "imgLink" : "https://m.media-amazon.com/images/I/21cy+euUYxL._SX342_SY445_.jpg",
+        "affLink" : "https://amzn.to/3PgnYpo"
     }
 
 ]
