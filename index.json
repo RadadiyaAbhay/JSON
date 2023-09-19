@@ -322,6 +322,24 @@
         "name" : "Weight Machine",
         "imgLink" : "https://m.media-amazon.com/images/I/21cy+euUYxL._SX342_SY445_.jpg",
         "affLink" : "https://amzn.to/3PgnYpo"
+    },
+    {
+        "id" : 55 ,
+        "name" : "Thermal Printer",
+        "imgLink" : "https://m.media-amazon.com/images/I/71OEdooVvPL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3PmGD2L"
+    },
+    {
+        "id" : 56 ,
+        "name" : "Beard Shaver",
+        "imgLink" : "https://m.media-amazon.com/images/I/61mO79rEazL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3RtKv4Y"
+    },
+    {
+        "id" : 57 ,
+        "name" : "Car Escape Tools",
+        "imgLink" : "https://m.media-amazon.com/images/I/617oHC7ZVJL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3LvflpY"
     }
 
 ]
