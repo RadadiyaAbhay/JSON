@@ -358,6 +358,24 @@
         "name" : "Laptop Foldstand",
         "imgLink" : "https://m.media-amazon.com/images/I/51H6oHhSyIL._SX522_.jpg",
         "affLink" : "https://amzn.to/3RvGXz8"
+    },
+    {
+        "id" : 61 ,
+        "name" : "Hand Fan",
+        "imgLink" : "https://m.media-amazon.com/images/I/61ADiVGkggL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3Rvgx08"
+    },
+    {
+        "id" : 62,
+        "name" : "Cleaning Machine",
+        "imgLink" : "https://m.media-amazon.com/images/I/31Ly7OehCGL._SX300_SY300_QL70_FMwebp_.jpg",
+        "affLink" : "https://amzn.to/3RqMjvr"
+    },
+    {
+        "id" : 63 ,
+        "name" : "Small Ledlight",
+        "imgLink" : "https://m.media-amazon.com/images/I/51whJ64PqaL._SX522_.jpg",
+        "affLink" : "https://amzn.to/3RzBQxJ"
     }
 
 ]
